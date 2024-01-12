@@ -113,4 +113,8 @@ const addBlockToChain = (newBlock: Block) => {
     return false;
 };
 
+
+
+
+
 export {Block, getBlockchain, getLatestBlock, generateNextBlock, isBlockStrucValid, replaceChain, addBlockToChain};
