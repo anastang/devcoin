@@ -5,6 +5,7 @@
     "elliptic": "^6.5.4",
     "express": "^4.18.2",
     "lodash": "^4.17.21",
+    "transaction": "^0.0.2",
     "ws": "^8.16.0"
   },
   "devDependencies": {
