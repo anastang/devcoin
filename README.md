@@ -8,8 +8,8 @@ npm start
 ```
 
 ## Basic Commands
-***
-# Get Blockchain
+
+### Get Blockchain
 Retrieve the current state of the blockchain. This command provides information about all the blocks in the chain.
 
 ```
