@@ -1,4 +1,4 @@
-#🪙Devcoin
+# 💰Devcoin
 Devcoin is a simplified blockchain implementation designed for educational purposes. This project aims to provide a clear and understandable example of a blockchain system. It includes basic functionalities such as mining, transactions, and a wallet system.
 
 ## Getting Started
