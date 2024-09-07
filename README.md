@@ -73,4 +73,4 @@ curl http://localhost:3001/peers
 ```
 
 ***
-Feel free to explore and experiment with these commands to gain a better understanding of blockchain concepts and the Naivecoin implementation.
+Feel free to explore and experiment with these commands to gain a better understanding of blockchain concepts and the Devcoin implementation.
